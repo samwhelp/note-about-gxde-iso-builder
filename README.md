@@ -7,7 +7,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [ISO Builder 探索筆記](https://samwhelp.github.io/note-about-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-iso-builder) |
-| [GXDE ISO Builder 探索筆記](https://samwhelp.github.io/note-about-debian-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-debian-iso-builder) |
+| [GXDE ISO Builder 探索筆記](https://samwhelp.github.io/note-about-gxde-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-gxde-iso-builder) |
 
 
 
@@ -31,7 +31,6 @@
 | ------- |
 | [gxde-iso-builder-remix](https://github.com/samwhelp/gxde-iso-builder-remix) |
 | [gxde-iso-builder-refactoring](https://github.com/samwhelp/gxde-iso-builder-refactoring) |
-
 
 
 
