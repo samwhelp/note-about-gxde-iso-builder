@@ -39,7 +39,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [GXDE 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+| [GXDE 探索筆記](https://samwhelp.github.io/note-about-gxde/) | [GitHub](https://github.com/samwhelp/note-about-gxde) |
 
 
 
