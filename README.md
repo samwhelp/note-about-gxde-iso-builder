@@ -29,8 +29,8 @@
 
 | 衍生實作案例 |
 | ------- |
-| [gxde-iso-builder-remix](https://github.com/GXDE-OS/gxde-iso-builder-remix) |
-| [gxde-iso-builder-refactoring](https://github.com/GXDE-OS/gxde-iso-builder-refactoring) |
+| [gxde-iso-builder-remix](https://github.com/samwhelp/gxde-iso-builder-remix) |
+| [gxde-iso-builder-refactoring](https://github.com/samwhelp/gxde-iso-builder-refactoring) |
 
 
 
