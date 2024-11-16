@@ -27,10 +27,10 @@
 | [gxde-iso-builder](https://github.com/GXDE-OS/gxde-iso-builder) |
 
 
-| 衍生實作案例 |
-| ------- |
-| [gxde-iso-builder-remix](https://github.com/samwhelp/gxde-iso-builder-remix) |
-| [gxde-iso-builder-refactoring](https://github.com/samwhelp/gxde-iso-builder-refactoring) |
+| 衍生實作案例 | 備註 |
+| ---------- | ---- |
+| [gxde-iso-builder-remix](https://github.com/samwhelp/gxde-iso-builder-remix) | 小幅調整，加入自訂設定機制 |
+| [gxde-iso-builder-refactoring](https://github.com/samwhelp/gxde-iso-builder-refactoring) | 重構程式碼，加入自訂設定機制 |
 
 
 
