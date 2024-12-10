@@ -33,6 +33,7 @@
 | ---------- | ---- |
 | [gxde-iso-builder-remix](https://github.com/samwhelp/gxde-iso-builder-remix) | 小幅調整，加入自訂設定機制 |
 | [gxde-iso-builder-refactoring](https://github.com/samwhelp/gxde-iso-builder-refactoring) | 重構程式碼，加入自訂設定機制 |
+| [gxde-iso-builder-refactoring](https://github.com/samwhelp/gxde-iso-builder-enhance) | 重構程式碼，加入自訂設定機制，加裝更多慣用軟體 |
 
 
 
